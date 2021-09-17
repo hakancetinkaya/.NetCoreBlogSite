@@ -11,7 +11,7 @@ namespace MyBlogSite.Controllers
         public IActionResult Index()
         { 
             var asa= 3;
-            asa = 1;
+            asa = 1 ;
             return View();
         }
     }
