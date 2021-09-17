@@ -9,7 +9,9 @@ namespace MyBlogSite.Controllers
     public class Category : Controller
     {
         public IActionResult Index()
-        {
+        { 
+            var asa= 3;
+            asa = 1;
             return View();
         }
     }
