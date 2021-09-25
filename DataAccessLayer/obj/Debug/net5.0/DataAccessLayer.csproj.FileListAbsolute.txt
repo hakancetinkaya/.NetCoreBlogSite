@@ -1,3 +1,8 @@
+C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
@@ -6,11 +11,6 @@ C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\re
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
-C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
-C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
-C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
-C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
 C:\Users\RDC Partner\source\repos\MyBlogSite\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll

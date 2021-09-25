@@ -1,3 +1,8 @@
+C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
@@ -6,11 +11,6 @@ C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\Data
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
-C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
-C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
-C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\RDC Partner\source\repos\MyBlogSite\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
