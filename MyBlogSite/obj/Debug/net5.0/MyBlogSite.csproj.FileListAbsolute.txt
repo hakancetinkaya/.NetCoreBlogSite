@@ -159,3 +159,13 @@ C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\V
 C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
 C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
 C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\MyBlogSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\RDC Partner\source\repos\MyBlogSite\MyBlogSite\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
